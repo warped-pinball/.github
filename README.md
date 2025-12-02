@@ -61,7 +61,7 @@ We welcome contributions from the community! This is a passion project and we lo
 
 - 📧 **Email**: [inventingfun@gmail.com](mailto:inventingfun@gmail.com)
 - 🐛 **Issues**: Have a question or found a bug? [Open an issue](https://github.com/warped-pinball/vector/issues/new/choose) and we'll help you out!
-- 🎬 **YouTube**: Check out our [FAQ video](https://youtu.be/iD46myZ2hAI?si=HNcbDbbh4u5xqsF9)
+- 🎬 **YouTube**: Watch our [introduction video](https://youtu.be/qvUgpQqO3D8?si=S-Hm-DTg6wWzQ_Of) or check out our [FAQ video](https://youtu.be/iD46myZ2hAI?si=HNcbDbbh4u5xqsF9)
 
 ---
 
