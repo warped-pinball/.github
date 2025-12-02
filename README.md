@@ -23,6 +23,8 @@ Our flagship product! Vector is a modern hardware and software solution that bri
 - 📊 Live score tracking and personal leaderboards
 - 🔄 Over-the-air updates
 - 🔒 No subscriptions, no cloud dependencies, no data collection
+- 💾 Non-volatile RAM without resoldering RAM chip
+- 🔧 No solder install
 
 👉 Try our [live demo](https://vector.doze.dev)!
 
