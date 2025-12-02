@@ -1,4 +1,4 @@
-# Welcome to Warped Pinball 🎱
+# Welcome to Warped Pinball
 
 **Bringing modern technology to classic pinball machines**
 
